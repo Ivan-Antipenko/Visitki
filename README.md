@@ -1,3 +1,5 @@
+permalink: /index.html
+
 # Проект платформы-визитницы VISITKI
 
 ## О проекте
